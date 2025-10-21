@@ -18,4 +18,6 @@ rangkuman materi kemarin dari aku AHMAD RAFIANSYAH adalah:
    untuk mengambil kembali perubahan file yang sudah di remote
    e. git merge
    untuk menggabungkan semua perubahan yang ada di branch lain, syntaxnya "git merge [nama branch yang ingin di gabungkan]"
+   f. git reset
+   untuk mengembalikan ke commit tertentu
 3. lalu kita juga diperkanalkan beberapa version control selain git seperti gitlab dan Bitbucket
